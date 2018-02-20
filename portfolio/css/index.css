@@ -1,0 +1,65 @@
+.container-fluid{
+    background-color: rgb(32, 32, 117);
+    width:  1440px;
+}
+.titleImage{
+    text-align: left;
+    padding: 0;
+}
+.titleImage img{
+    width: 400px;
+}
+.title{
+    padding-left: 90px;
+    width: 888px;
+    color: aliceblue;
+
+}
+.title h3, h4{
+    padding: 15px;
+}
+.title p{
+    padding-top: 150px;
+    width: 500px;
+}
+.contantTitle{
+    padding-bottom: 38px;
+    padding-top: 106px;
+}
+.contantRow{
+
+    background-color: #E9F0E6;
+    margin: 15px;
+}
+.myWorks{
+    padding-top: 129px;
+    padding-bottom: 63px; 
+}
+
+
+.contantRow h2{
+    padding-bottom: 
+    64px;
+}
+.sliderPoints{
+    text-align: left;
+}
+.sliderPoints img{
+display: block;
+padding: 5px;
+}
+
+.lamoda p{
+    position: absolute;
+    bottom: 0px;
+    opacity: 0.8;
+    font-family: Georgia;
+    font-size: 16px;
+    line-height: 24px;
+}
+.lamoda a{
+    font-family: Georgia;
+    font-size: 16px;
+    color: #DD3E18;
+    line-height: 24px;
+}

@@ -1,0 +1,26 @@
+.container{
+    display: inline-block;
+    margin: 0 auto;
+}
+.matrix{
+    width: 50px;
+}
+
+
+.oneIsland{
+    border: 1px solid red;
+}
+.borderHorizontal{
+    border-top: 1px solid red;
+    border-bottom: 1px solid red;
+}
+.borderLeft{
+    border-left: 1px solid red;
+}
+.borderRight{
+    border-right: 1px solid red;
+}
+.borderVertical{
+    border-left: 1px solid red;
+    border-right: 1px solid red;
+}
