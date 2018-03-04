@@ -1,0 +1,12 @@
+.hidden {
+    display: none;
+  }
+  .item-title {
+    font-weight: bold;
+  }
+  .buttons-block {
+    margin-top: 20px;
+  }
+  .inputClass{
+      width: 100px;
+  }

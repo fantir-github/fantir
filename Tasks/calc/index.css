@@ -1,0 +1,39 @@
+.button-operation, .button-ravno, .button-clear{
+    color: white;
+    border: 3px outset;
+    font-size: 32px;
+    font-family: Courier;
+    background-color: black;
+}
+.button{
+    color: white;
+    border: 3px outset;
+    font-size: 32px;
+    font-family: Courier;
+    background-color: black;
+}
+.form{
+    color: white;
+    border: 4px outset;
+    margin-left: 0px;
+    font-size: 32px;
+    font-family: Courier;
+    height: 40px;
+    width: 185px;
+    background-color: black;
+}
+.string{
+    margin-left: 10px;
+}
+.container {
+    border: 3px outset;
+    background-color: grey;
+    height: 265px;
+    width: 180px;
+}
+.block{
+    border: 3px outset;
+    margin: 0 auto;
+    height: 310px;
+    width: 185px;
+}
